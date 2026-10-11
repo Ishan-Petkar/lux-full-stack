@@ -1,0 +1,2150 @@
+[
+ {
+  "id": "P001",
+  "brand": "Cartier",
+  "name": "Tank",
+  "category": "Watches",
+  "subcategory": "Dress watches",
+  "price": 395000,
+  "stock": 6,
+  "tags": [
+   "dress",
+   "icon",
+   "rectangular",
+   "steel",
+   "watch"
+  ],
+  "description": "The Tank is a line of watches made by Cartier. It was created by Louis Cartier in 1917, and inspired by the new Renault tanks which Cartier saw in use on the Western Front. The prototype watch was presented by Cartier to General John J. Pershing of the American Expeditionary Force.",
+  "source": "Wikipedia: Cartier Tank (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P002",
+  "brand": "Patek Philippe",
+  "name": "Calatrava",
+  "category": "Watches",
+  "subcategory": "Dress watches",
+  "price": 2150000,
+  "stock": 3,
+  "tags": [
+   "dress",
+   "icon",
+   "manual wind",
+   "round",
+   "watch"
+  ],
+  "description": "The Patek Philippe Calatrava is a line of dress watches built by Swiss watchmaker Patek Philippe. Known for its simple and elegant design, the Calatrava wristwatch has been a flagship model of Patek Philippe since its introduction.",
+  "source": "Wikipedia: Patek Philippe Calatrava (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P003",
+  "brand": "Jaeger-LeCoultre",
+  "name": "Reverso",
+  "category": "Watches",
+  "subcategory": "Dress watches",
+  "price": 785000,
+  "stock": 5,
+  "tags": [
+   "art deco",
+   "dress",
+   "icon",
+   "reversible",
+   "watch"
+  ],
+  "description": "A rectangular watch whose case flips over on a sprung carriage, protecting the dial. Created in 1931 for polo players and still made in Le Sentier.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P004",
+  "brand": "A. Lange & Söhne",
+  "name": "Lange 1",
+  "category": "Watches",
+  "subcategory": "Dress watches",
+  "price": 3900000,
+  "stock": 2,
+  "tags": [
+   "asymmetric dial",
+   "dress",
+   "german",
+   "watch"
+  ],
+  "description": "German manual-wind watch with an off-centre dial, outsize date and power reserve indicator. Movement finished and assembled by hand in Glashütte.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P005",
+  "brand": "Rolex",
+  "name": "Cellini",
+  "category": "Watches",
+  "subcategory": "Dress watches",
+  "price": 1050000,
+  "stock": 4,
+  "tags": [
+   "classic",
+   "dress",
+   "gold",
+   "watch"
+  ],
+  "description": "Rolex's dress-watch family: slim gold cases, domed bezels and classic dials, without the sports-watch bracelet.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P006",
+  "brand": "Rolex",
+  "name": "Submariner",
+  "category": "Watches",
+  "subcategory": "Sports watches",
+  "price": 1130000,
+  "stock": 5,
+  "tags": [
+   "300m",
+   "diver",
+   "icon",
+   "steel",
+   "watch"
+  ],
+  "description": "The Rolex Submariner is a line of sports watches designed for diving and manufactured by Rolex, resistant to water and corrosion. The first Submariner was introduced to the public in 1954 at the Basel Watch Fair.",
+  "source": "Wikipedia: Rolex Submariner (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P007",
+  "brand": "Omega",
+  "name": "Seamaster",
+  "category": "Watches",
+  "subcategory": "Sports watches",
+  "price": 545000,
+  "stock": 8,
+  "tags": [
+   "bond",
+   "co-axial",
+   "diver",
+   "steel",
+   "watch"
+  ],
+  "description": "The Omega Seamaster is a line of automatic winding mechanical sports and diving watches from Omega with a history that can be traced back to the original water-resistant dress-style watch released in 1948.",
+  "source": "Wikipedia: Omega Seamaster (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P008",
+  "brand": "Audemars Piguet",
+  "name": "Royal Oak",
+  "category": "Watches",
+  "subcategory": "Sports watches",
+  "price": 3850000,
+  "stock": 0,
+  "tags": [
+   "icon",
+   "integrated bracelet",
+   "octagonal",
+   "watch"
+  ],
+  "description": "The octagonal steel sports watch with an exposed-screw bezel and integrated bracelet, introduced in 1972.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P009",
+  "brand": "Patek Philippe",
+  "name": "Nautilus",
+  "category": "Watches",
+  "subcategory": "Sports watches",
+  "price": 4500000,
+  "stock": 0,
+  "tags": [
+   "icon",
+   "integrated bracelet",
+   "porthole",
+   "watch"
+  ],
+  "description": "Integrated-bracelet sports watch with a porthole-shaped case, introduced in 1976 and designed by Gérald Genta.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P010",
+  "brand": "Rolex",
+  "name": "GMT-Master II",
+  "category": "Watches",
+  "subcategory": "Sports watches",
+  "price": 1090000,
+  "stock": 4,
+  "tags": [
+   "dual time",
+   "icon",
+   "steel",
+   "travel",
+   "watch"
+  ],
+  "description": "A travel watch that shows a second time zone with a 24-hour hand, in steel with a two-colour ceramic bezel.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P011",
+  "brand": "Panerai",
+  "name": "Luminor",
+  "category": "Watches",
+  "subcategory": "Sports watches",
+  "price": 640000,
+  "stock": 5,
+  "tags": [
+   "cushion case",
+   "diver",
+   "italian",
+   "watch"
+  ],
+  "description": "Italian dive-watch heritage in a large cushion case, with the signature crown-protecting bridge and luminous dial.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P012",
+  "brand": "Omega",
+  "name": "Speedmaster Professional",
+  "category": "Watches",
+  "subcategory": "Chronographs",
+  "price": 765000,
+  "stock": 6,
+  "tags": [
+   "chronograph",
+   "icon",
+   "manual wind",
+   "moonwatch",
+   "watch"
+  ],
+  "description": "Omega Speedmaster is a line of luxury chronograph wristwatches produced by Omega SA. While chronographs have existed since the late 1800s, Omega first introduced this line of chronographs in 1957. Since then, many different chronograph movements have been marketed under the Speedmaster name.",
+  "source": "Wikipedia: Omega Speedmaster (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P013",
+  "brand": "Rolex",
+  "name": "Cosmograph Daytona",
+  "category": "Watches",
+  "subcategory": "Chronographs",
+  "price": 2250000,
+  "stock": 2,
+  "tags": [
+   "chronograph",
+   "icon",
+   "racing",
+   "steel",
+   "watch"
+  ],
+  "description": "The Rolex Cosmograph Daytona is a mechanical chronograph wristwatch designed to meet the needs of racing drivers by measuring elapsed time and calculating average speed. Its name refers to Daytona Beach, Florida, where racing flourished in the early 20th century.",
+  "source": "Wikipedia: Rolex Cosmograph Daytona (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P014",
+  "brand": "TAG Heuer",
+  "name": "Monaco",
+  "category": "Watches",
+  "subcategory": "Chronographs",
+  "price": 560000,
+  "stock": 5,
+  "tags": [
+   "chronograph",
+   "mcqueen",
+   "racing",
+   "square",
+   "watch"
+  ],
+  "description": "The TAG Heuer Monaco, initially introduced by Heuer in 1969, is a line of automatic chronograph wristwatches created to commemorate the Monaco Grand Prix.",
+  "source": "Wikipedia: TAG Heuer Monaco (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P015",
+  "brand": "Breitling",
+  "name": "Navitimer",
+  "category": "Watches",
+  "subcategory": "Chronographs",
+  "price": 690000,
+  "stock": 5,
+  "tags": [
+   "chronograph",
+   "pilot",
+   "slide rule",
+   "watch"
+  ],
+  "description": "The Breitling Navitimer is a watch that was released in 1954 in Switzerland by Breitling SA. Since then it has been one of the best selling watches produced by Breitling.",
+  "source": "Wikipedia: Breitling Navitimer (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P016",
+  "brand": "Zenith",
+  "name": "El Primero",
+  "category": "Watches",
+  "subcategory": "Chronographs",
+  "price": 705000,
+  "stock": 4,
+  "tags": [
+   "automatic",
+   "chronograph",
+   "high-beat",
+   "watch"
+  ],
+  "description": "El Primero is a steam yacht that was built in 1893. This vessel was once considered one of the most luxurious yachts on the West Coast of the United States, and was one of the few steam yachts to be operated on Puget Sound.",
+  "source": "Wikipedia: El Primero (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P017",
+  "brand": "Hermès",
+  "name": "Birkin",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 1250000,
+  "stock": 2,
+  "tags": [
+   "hand-stitched",
+   "handbag",
+   "icon",
+   "leather",
+   "togo"
+  ],
+  "description": "The hand-stitched leather bag named after Jane Birkin, made by a single artisan and recognised by its flap, turn lock and two handles.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P018",
+  "brand": "Hermès",
+  "name": "Kelly",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 1150000,
+  "stock": 2,
+  "tags": [
+   "handbag",
+   "icon",
+   "leather",
+   "structured"
+  ],
+  "description": "The Kelly bag is a leather handbag created in the 1930s by the company Hermès and named after American actress and Princess of Monaco Grace Kelly. It is one of the brand's iconic products, along with the Carré de soie and the Birkin bag.",
+  "source": "Wikipedia: Kelly bag (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P019",
+  "brand": "Chanel",
+  "name": "Classic Flap (2.55)",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 1000000,
+  "stock": 3,
+  "tags": [
+   "chain strap",
+   "handbag",
+   "icon",
+   "quilted"
+  ],
+  "description": "The Chanel 2.55 is a luxury leather handbag or purse designed by Coco Chanel and manufactured by the fashion house of Chanel.",
+  "source": "Wikipedia: Chanel 2.55 (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P020",
+  "brand": "Louis Vuitton",
+  "name": "Speedy",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 190000,
+  "stock": 9,
+  "tags": [
+   "everyday",
+   "handbag",
+   "icon",
+   "monogram canvas"
+  ],
+  "description": "A compact monogram-canvas handbag with rolled leather handles, a daily classic from the house since the 1930s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P021",
+  "brand": "Dior",
+  "name": "Lady Dior",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 480000,
+  "stock": 4,
+  "tags": [
+   "cannage",
+   "charms",
+   "handbag",
+   "icon"
+  ],
+  "description": "Lady Dior is a commercial name given to a handbag by the Christian Dior company in honor of Diana, Princess of Wales. It was designed by Gianfranco Ferré in 1994 under the name Chouchou, and was later renamed as Princesse before being renamed as Lady Dior.",
+  "source": "Wikipedia: Lady Dior (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P022",
+  "brand": "Fendi",
+  "name": "Baguette",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 320000,
+  "stock": 5,
+  "tags": [
+   "handbag",
+   "icon",
+   "italian",
+   "shoulder bag"
+  ],
+  "description": "The small shoulder bag worn tucked under the arm, launched in 1997 and offered in countless embellished editions.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P023",
+  "brand": "Dior",
+  "name": "Saddle Bag",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 360000,
+  "stock": 4,
+  "tags": [
+   "handbag",
+   "icon",
+   "oblique",
+   "saddle"
+  ],
+  "description": "The Dior Saddle bag is a designer handbag introduced in 1999 by French fashion house Dior under the creative direction of John Galliano.",
+  "source": "Wikipedia: Dior Saddle bag (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P024",
+  "brand": "Gucci",
+  "name": "Jackie 1961",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 260000,
+  "stock": 5,
+  "tags": [
+   "handbag",
+   "hobo",
+   "icon",
+   "piston closure"
+  ],
+  "description": "A slouchy hobo shoulder bag with a piston closure, reissued from the 1960s original named after Jacqueline Kennedy Onassis.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P025",
+  "brand": "Louis Vuitton",
+  "name": "Keepall",
+  "category": "Bags",
+  "subcategory": "Travel bags",
+  "price": 210000,
+  "stock": 7,
+  "tags": [
+   "duffle",
+   "icon",
+   "monogram",
+   "travel bag"
+  ],
+  "description": "The soft-sided travel bag in monogram canvas, designed in 1930 as a weekend companion that folds when empty.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P026",
+  "brand": "Louis Vuitton",
+  "name": "Neverfull",
+  "category": "Bags",
+  "subcategory": "Travel bags",
+  "price": 180000,
+  "stock": 10,
+  "tags": [
+   "everyday",
+   "icon",
+   "monogram canvas",
+   "tote"
+  ],
+  "description": "A roomy open tote in monogram canvas with side laces to adjust the shape, and a removable zipped pouch.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P027",
+  "brand": "Rimowa",
+  "name": "Classic Cabin",
+  "category": "Bags",
+  "subcategory": "Travel bags",
+  "price": 145000,
+  "stock": 8,
+  "tags": [
+   "aluminium",
+   "cabin",
+   "german",
+   "grooved",
+   "suitcase"
+  ],
+  "description": "The grooved aluminium cabin suitcase from Cologne, lightweight, dent-tolerant and built to take years of travel.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P028",
+  "brand": "Goyard",
+  "name": "Saint Louis Tote",
+  "category": "Bags",
+  "subcategory": "Travel bags",
+  "price": 135000,
+  "stock": 5,
+  "tags": [
+   "goyardine canvas",
+   "hand-painted",
+   "tote"
+  ],
+  "description": "A reversible tote in hand-painted goyardine canvas, unlined and lightweight, with no logo beyond the chevron pattern.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P029",
+  "brand": "Berluti",
+  "name": "Venezia Leather Briefcase",
+  "category": "Bags",
+  "subcategory": "Travel bags",
+  "price": 520000,
+  "stock": 3,
+  "tags": [
+   "briefcase",
+   "french",
+   "patina",
+   "venezia leather"
+  ],
+  "description": "A slim briefcase in Venezia calfskin, hand-dyed so each piece develops its own patina with use.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P030",
+  "brand": "Chanel",
+  "name": "N°5 Eau de Parfum",
+  "category": "Fragrance",
+  "subcategory": "Women's fragrance",
+  "price": 17500,
+  "stock": 25,
+  "tags": [
+   "1921",
+   "aldehydic",
+   "floral",
+   "icon",
+   "perfume"
+  ],
+  "description": "Chanel No. 5 is the first perfume launched by French couturier Gabrielle \"Coco\" Chanel in 1921. The scent formula for the fragrance was compounded by French-Russian chemist and perfumer Ernest Beaux. The design of its bottle has been an important part of the product's branding.",
+  "source": "Wikipedia: Chanel No. 5 (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P031",
+  "brand": "Dior",
+  "name": "J'adore Eau de Parfum",
+  "category": "Fragrance",
+  "subcategory": "Women's fragrance",
+  "price": 14500,
+  "stock": 22,
+  "tags": [
+   "floral",
+   "jasmine",
+   "perfume",
+   "ylang-ylang"
+  ],
+  "description": "A floral bouquet of ylang-ylang, rose and jasmine in a bottle shaped like an amphora, created in 1999.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P032",
+  "brand": "Guerlain",
+  "name": "Shalimar",
+  "category": "Fragrance",
+  "subcategory": "Women's fragrance",
+  "price": 12800,
+  "stock": 18,
+  "tags": [
+   "1925",
+   "bergamot",
+   "oriental",
+   "perfume",
+   "vanilla"
+  ],
+  "description": "Shalimar is a perfume originally created by Jacques Guerlain in 1921 for French perfume and cosmetics house Guerlain. In production continuously since 1925, Shalimar is currently a flagship product for Guerlain.",
+  "source": "Wikipedia: Shalimar (perfume) (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P033",
+  "brand": "Chanel",
+  "name": "Coco Mademoiselle",
+  "category": "Fragrance",
+  "subcategory": "Women's fragrance",
+  "price": 16800,
+  "stock": 20,
+  "tags": [
+   "chypre",
+   "orange",
+   "patchouli",
+   "perfume"
+  ],
+  "description": "Coco Mademoiselle is a women's perfume by French fashion house Chanel, introduced in 2001 for younger consumers. The fragrance was created by Jacques Polge, the nose of Chanel from 1978 to 2015.",
+  "source": "Wikipedia: Coco Mademoiselle (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P034",
+  "brand": "Dior",
+  "name": "Miss Dior",
+  "category": "Fragrance",
+  "subcategory": "Women's fragrance",
+  "price": 15200,
+  "stock": 16,
+  "tags": [
+   "chypre",
+   "floral",
+   "perfume",
+   "rose"
+  ],
+  "description": "Miss Dior is a 1947 perfume released by Christian Dior.",
+  "source": "Wikipedia: Miss Dior (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P035",
+  "brand": "Yves Saint Laurent",
+  "name": "Opium",
+  "category": "Fragrance",
+  "subcategory": "Women's fragrance",
+  "price": 13800,
+  "stock": 12,
+  "tags": [
+   "1977",
+   "oriental",
+   "perfume",
+   "spicy"
+  ],
+  "description": "Opium is an Oriental-spicy perfume for women, created for the French fashion house Yves Saint Laurent by perfumers Jean Amic and Jean-Louis Sieuzac.",
+  "source": "Wikipedia: Opium (perfume) (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P036",
+  "brand": "Dior",
+  "name": "Sauvage Eau de Parfum",
+  "category": "Fragrance",
+  "subcategory": "Men's fragrance",
+  "price": 13200,
+  "stock": 28,
+  "tags": [
+   "ambroxan",
+   "bergamot",
+   "cologne",
+   "fresh"
+  ],
+  "description": "Sauvage is a line of men's fragrances produced by Parfums Christian Dior. The original eau de toilette, composed by the house's in-house perfumer François Demachy, was released in 2015, with the actor Johnny Depp as the face of its advertising.",
+  "source": "Wikipedia: Sauvage (fragrance) (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P037",
+  "brand": "Chanel",
+  "name": "Bleu de Chanel",
+  "category": "Fragrance",
+  "subcategory": "Men's fragrance",
+  "price": 14200,
+  "stock": 24,
+  "tags": [
+   "citrus",
+   "cologne",
+   "incense",
+   "woody"
+  ],
+  "description": "Bleu de Chanel is a men's fragrance created by Jacques Polge for French fashion house Chanel in 2010. It was the first men's fragrance released by the brand since Allure Homme Sport in 2004, and the first men's masterbrand introduced since Égoïste in 1990.",
+  "source": "Wikipedia: Bleu de Chanel (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P038",
+  "brand": "Creed",
+  "name": "Aventus",
+  "category": "Fragrance",
+  "subcategory": "Men's fragrance",
+  "price": 38500,
+  "stock": 9,
+  "tags": [
+   "cologne",
+   "fruity",
+   "niche",
+   "pineapple",
+   "smoky"
+  ],
+  "description": "A fruity, smoky niche fragrance built on pineapple, birch and musk, launched in 2010 by the house of Creed.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P039",
+  "brand": "Dior",
+  "name": "Eau Sauvage",
+  "category": "Fragrance",
+  "subcategory": "Men's fragrance",
+  "price": 10800,
+  "stock": 14,
+  "tags": [
+   "1966",
+   "citrus",
+   "classic",
+   "cologne"
+  ],
+  "description": "Eau Sauvage is a perfume for men produced by Parfums Christian Dior. It was created by perfumer Edmond Roudnitska and introduced in 1966 as Dior's first scent for men. The name of the fragrance is reputedly the result of a late arrival by Christian Dior's friend Percy Savage to Dior's home.",
+  "source": "Wikipedia: Eau Sauvage (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P040",
+  "brand": "Hermès",
+  "name": "Terre d'Hermès",
+  "category": "Fragrance",
+  "subcategory": "Men's fragrance",
+  "price": 11800,
+  "stock": 20,
+  "tags": [
+   "cologne",
+   "flint",
+   "orange",
+   "woody"
+  ],
+  "description": "Terre d'Hermès is a fragrance launched by French luxury brand Hermès in March 2006. It was created by Jean-Claude Ellena, who was the exclusive in-house perfumer of Hermès.",
+  "source": "Wikipedia: Terre d'Hermès (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P041",
+  "brand": "Giorgio Armani",
+  "name": "Acqua di Giò",
+  "category": "Fragrance",
+  "subcategory": "Men's fragrance",
+  "price": 9800,
+  "stock": 30,
+  "tags": [
+   "aquatic",
+   "cologne",
+   "fresh",
+   "marine"
+  ],
+  "description": "Acqua di Giò is a men's fragrance released by Giorgio Armani in 1996. It was composed by the perfumer Alberto Morillas and is produced under licence by L'Oréal Luxe. It has remained in production since its launch and was inducted into the Fragrance Foundation's Hall of Fame in 2012.",
+  "source": "Wikipedia: Acqua di Giò (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P042",
+  "brand": "Ray-Ban",
+  "name": "Aviator Classic",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 14500,
+  "stock": 20,
+  "tags": [
+   "1937",
+   "aviator",
+   "icon",
+   "metal",
+   "sunglasses"
+  ],
+  "description": "Aviator sunglasses are a style of sunglasses that was developed by a group of American firms. The original Bausch & Lomb design is now commercially marketed as Ray-Ban Aviators, although other manufacturers also produce aviator-style sunglasses.",
+  "source": "Wikipedia: Aviator sunglasses (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P043",
+  "brand": "Ray-Ban",
+  "name": "Wayfarer",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 12500,
+  "stock": 24,
+  "tags": [
+   "1952",
+   "acetate",
+   "icon",
+   "sunglasses",
+   "wayfarer"
+  ],
+  "description": "Ray-Ban Wayfarer sunglasses and eyeglasses have been manufactured by Ray-Ban since 1952.",
+  "source": "Wikipedia: Ray-Ban Wayfarer (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P044",
+  "brand": "Ray-Ban",
+  "name": "Clubmaster",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 13500,
+  "stock": 18,
+  "tags": [
+   "acetate",
+   "browline",
+   "icon",
+   "sunglasses"
+  ],
+  "description": "Browline frames pairing a bold acetate upper rim with metal lower edges, a 1950s optical style reintroduced as sunglasses.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P045",
+  "brand": "Persol",
+  "name": "649 Original",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 24500,
+  "stock": 10,
+  "tags": [
+   "italian",
+   "meflecto",
+   "steve mcqueen",
+   "sunglasses"
+  ],
+  "description": "Italian acetate sunglasses with the Meflecto flexible temples and the silver arrow, made in the 1950s for tram drivers.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P046",
+  "brand": "Oliver Peoples",
+  "name": "Gregory Peck",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 33500,
+  "stock": 8,
+  "tags": [
+   "acetate",
+   "american",
+   "round",
+   "sunglasses"
+  ],
+  "description": "Round acetate frames named after the actor, with a keyhole bridge and gold-toned detailing.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P047",
+  "brand": "Cartier",
+  "name": "Santos de Cartier Sunglasses",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 98000,
+  "stock": 5,
+  "tags": [
+   "aviator",
+   "french",
+   "gold",
+   "sunglasses"
+  ],
+  "description": "Aviator-style sunglasses with gold-finish metal frames and the signature screw detail of the Santos family.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P048",
+  "brand": "Cartier",
+  "name": "Love Bracelet",
+  "category": "Jewellery",
+  "subcategory": "Bracelets & rings",
+  "price": 720000,
+  "stock": 6,
+  "tags": [
+   "1969",
+   "bracelet",
+   "gold",
+   "icon",
+   "screw motif"
+  ],
+  "description": "The screw-motif gold bracelet designed in 1969, locked on with a screwdriver as a sign of lasting commitment.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P049",
+  "brand": "Cartier",
+  "name": "Juste un Clou",
+  "category": "Jewellery",
+  "subcategory": "Bracelets & rings",
+  "price": 640000,
+  "stock": 5,
+  "tags": [
+   "bracelet",
+   "gold",
+   "icon",
+   "nail motif"
+  ],
+  "description": "A gold bracelet shaped like a bent nail, an everyday object turned into jewellery in the 1970s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P050",
+  "brand": "Tiffany & Co.",
+  "name": "Tiffany Setting Ring",
+  "category": "Jewellery",
+  "subcategory": "Bracelets & rings",
+  "price": 480000,
+  "stock": 6,
+  "tags": [
+   "1886",
+   "diamond",
+   "platinum",
+   "ring",
+   "solitaire"
+  ],
+  "description": "The six-prong solitaire engagement ring introduced in 1886 that lifts the diamond to catch the light.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P051",
+  "brand": "Bulgari",
+  "name": "Serpenti Bracelet",
+  "category": "Jewellery",
+  "subcategory": "Bracelets & rings",
+  "price": 560000,
+  "stock": 4,
+  "tags": [
+   "bracelet",
+   "gold",
+   "icon",
+   "italian",
+   "serpent"
+  ],
+  "description": "A coiled serpent in gold with a scale texture, a motif the Roman jeweller has made since the 1940s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P052",
+  "brand": "Cartier",
+  "name": "Trinity Ring",
+  "category": "Jewellery",
+  "subcategory": "Bracelets & rings",
+  "price": 310000,
+  "stock": 8,
+  "tags": [
+   "1924",
+   "icon",
+   "ring",
+   "three gold"
+  ],
+  "description": "Three interlocking bands of yellow, white and rose gold, a design first made in 1924.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P053",
+  "brand": "Van Cleef & Arpels",
+  "name": "Vintage Alhambra Necklace",
+  "category": "Jewellery",
+  "subcategory": "Necklaces & earrings",
+  "price": 430000,
+  "stock": 5,
+  "tags": [
+   "clover",
+   "gold",
+   "icon",
+   "mother of pearl",
+   "necklace"
+  ],
+  "description": "A chain of four-leaf clover motifs in gold and mother of pearl, inspired by good luck.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P054",
+  "brand": "Tiffany & Co.",
+  "name": "Return to Tiffany Heart Tag",
+  "category": "Jewellery",
+  "subcategory": "Necklaces & earrings",
+  "price": 78000,
+  "stock": 14,
+  "tags": [
+   "heart tag",
+   "necklace",
+   "sterling silver"
+  ],
+  "description": "A sterling silver heart tag pendant engraved with the Return to Tiffany inscription.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P055",
+  "brand": "Mikimoto",
+  "name": "Akoya Pearl Strand",
+  "category": "Jewellery",
+  "subcategory": "Necklaces & earrings",
+  "price": 365000,
+  "stock": 6,
+  "tags": [
+   "18k gold clasp",
+   "akoya pearl",
+   "necklace"
+  ],
+  "description": "A strand of cultured Akoya pearls graded for lustre and matching, with a gold clasp. Mikimoto pioneered pearl culturing.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P056",
+  "brand": "Bulgari",
+  "name": "B.zero1 Earrings",
+  "category": "Jewellery",
+  "subcategory": "Necklaces & earrings",
+  "price": 245000,
+  "stock": 7,
+  "tags": [
+   "earrings",
+   "gold",
+   "roman",
+   "spiral"
+  ],
+  "description": "Gold spiral earrings echoing the Colosseum-inspired ring pattern of the house's best-known collection.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P057",
+  "brand": "Burberry",
+  "name": "Kensington Trench Coat",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "price": 215000,
+  "stock": 8,
+  "tags": [
+   "double-breasted",
+   "gabardine",
+   "heritage",
+   "trench coat"
+  ],
+  "description": "A double-breasted gabardine trench with storm flap, belt and horn-effect buttons, in the house's heritage cut.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P058",
+  "brand": "Moncler",
+  "name": "Maya Down Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "price": 168000,
+  "stock": 7,
+  "tags": [
+   "down jacket",
+   "french-italian",
+   "nylon",
+   "quilted"
+  ],
+  "description": "A quilted down jacket in glossy nylon with a high collar, light enough to wear all winter.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P059",
+  "brand": "Barbour",
+  "name": "Beaufort Waxed Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "price": 42000,
+  "stock": 9,
+  "tags": [
+   "british",
+   "field",
+   "jacket",
+   "waxed cotton"
+  ],
+  "description": "The waxed cotton field jacket with corduroy collar and game pocket, weatherproof since the 1980s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P060",
+  "brand": "Loro Piana",
+  "name": "Storm System Overcoat",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "price": 285000,
+  "stock": 4,
+  "tags": [
+   "cashmere",
+   "italian",
+   "overcoat",
+   "wind-resistant"
+  ],
+  "description": "A cashmere overcoat with a wind-resistant membrane, tailored in Italy from the maker's own fibres.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P061",
+  "brand": "Loro Piana",
+  "name": "Cashmere Crewneck",
+  "category": "Apparel",
+  "subcategory": "Knitwear & silk",
+  "price": 98000,
+  "stock": 12,
+  "tags": [
+   "baby cashmere",
+   "crewneck",
+   "italian",
+   "sweater"
+  ],
+  "description": "A fine-gauge crewneck knitted from baby cashmere, very soft and light enough to layer.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P062",
+  "brand": "Brunello Cucinelli",
+  "name": "Cashmere Turtleneck",
+  "category": "Apparel",
+  "subcategory": "Knitwear & silk",
+  "price": 112000,
+  "stock": 8,
+  "tags": [
+   "cashmere",
+   "italian",
+   "sweater",
+   "turtleneck"
+  ],
+  "description": "A rib-knit turtleneck in pure cashmere, finished in the muted palette typical of the Solomeo house.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P063",
+  "brand": "Hermès",
+  "name": "Silk Carré 90",
+  "category": "Apparel",
+  "subcategory": "Knitwear & silk",
+  "price": 42000,
+  "stock": 15,
+  "tags": [
+   "90 cm",
+   "hand-rolled",
+   "icon",
+   "scarf",
+   "silk twill"
+  ],
+  "description": "A 90 cm square silk twill scarf with hand-rolled edges, printed in up to forty colours.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P064",
+  "brand": "Burberry",
+  "name": "Check Cashmere Scarf",
+  "category": "Apparel",
+  "subcategory": "Knitwear & silk",
+  "price": 48000,
+  "stock": 14,
+  "tags": [
+   "cashmere",
+   "check",
+   "heritage",
+   "scarf"
+  ],
+  "description": "A soft cashmere scarf in the house check, brushed for warmth and finished with a fringe.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P065",
+  "brand": "Chanel",
+  "name": "Tweed Jacket",
+  "category": "Apparel",
+  "subcategory": "Tailoring",
+  "price": 520000,
+  "stock": 3,
+  "tags": [
+   "1950s",
+   "braid trim",
+   "icon",
+   "jacket",
+   "tweed"
+  ],
+  "description": "The collarless bouclé jacket with braided trim and gold buttons that has defined the house's tailoring since the 1950s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P066",
+  "brand": "Yves Saint Laurent",
+  "name": "Le Smoking Tuxedo",
+  "category": "Apparel",
+  "subcategory": "Tailoring",
+  "price": 340000,
+  "stock": 3,
+  "tags": [
+   "1966",
+   "icon",
+   "tuxedo",
+   "wool"
+  ],
+  "description": "Le Smoking is a women's tuxedo suit created in 1966 by couturier Yves Saint Laurent.",
+  "source": "Wikipedia: Le Smoking (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P067",
+  "brand": "Brioni",
+  "name": "Bespoke Wool Suit",
+  "category": "Apparel",
+  "subcategory": "Tailoring",
+  "price": 450000,
+  "stock": 4,
+  "tags": [
+   "italian",
+   "suit",
+   "super 150s wool",
+   "tailored"
+  ],
+  "description": "A hand-tailored wool suit from the Roman house, cut with a soft shoulder and a clean drape.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P068",
+  "brand": "Ermenegildo Zegna",
+  "name": "Trofeo Wool Suit",
+  "category": "Apparel",
+  "subcategory": "Tailoring",
+  "price": 295000,
+  "stock": 5,
+  "tags": [
+   "italian",
+   "suit",
+   "tailored",
+   "trofeo wool"
+  ],
+  "description": "A suit in Trofeo wool woven from fine fibres, with a natural stretch and a refined drape.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P069",
+  "brand": "Christian Louboutin",
+  "name": "So Kate Pump",
+  "category": "Footwear",
+  "subcategory": "Heels",
+  "price": 82000,
+  "stock": 8,
+  "tags": [
+   "patent leather",
+   "pump",
+   "red sole",
+   "stiletto"
+  ],
+  "description": "A stiletto pump with a pointed toe and the lacquered red sole that has been the designer's signature since 1993.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P070",
+  "brand": "Manolo Blahnik",
+  "name": "BB Pump",
+  "category": "Footwear",
+  "subcategory": "Heels",
+  "price": 76000,
+  "stock": 7,
+  "tags": [
+   "british",
+   "pointed toe",
+   "pump",
+   "satin"
+  ],
+  "description": "A pointed-toe satin pump with a slender heel, hand-finished in Italy for the London shoemaker.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P071",
+  "brand": "Chanel",
+  "name": "Two-Tone Slingback",
+  "category": "Footwear",
+  "subcategory": "Heels",
+  "price": 88000,
+  "stock": 6,
+  "tags": [
+   "cap toe",
+   "icon",
+   "slingback",
+   "two-tone"
+  ],
+  "description": "A beige slingback with a black cap toe, a design that lengthens the leg and has been worn since 1957.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P072",
+  "brand": "Jimmy Choo",
+  "name": "Azia Sandal",
+  "category": "Footwear",
+  "subcategory": "Heels",
+  "price": 72000,
+  "stock": 8,
+  "tags": [
+   "london",
+   "sandal",
+   "stiletto",
+   "strappy"
+  ],
+  "description": "A strappy stiletto sandal in metallic leather with a slim ankle strap, handmade in Italy.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P073",
+  "brand": "Gucci",
+  "name": "Horsebit 1953 Loafer",
+  "category": "Footwear",
+  "subcategory": "Loafers & oxfords",
+  "price": 79000,
+  "stock": 10,
+  "tags": [
+   "1953",
+   "horsebit",
+   "icon",
+   "leather",
+   "loafer"
+  ],
+  "description": "A leather loafer with the gold horsebit across the vamp, a detail the house first used in 1953.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P074",
+  "brand": "Berluti",
+  "name": "Alessandro Oxford",
+  "category": "Footwear",
+  "subcategory": "Loafers & oxfords",
+  "price": 145000,
+  "stock": 5,
+  "tags": [
+   "calf leather",
+   "french",
+   "oxford",
+   "patina"
+  ],
+  "description": "A one-piece calf leather oxford with a hand-applied patina, the maker's signature lace-up since the 1890s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P075",
+  "brand": "Church's",
+  "name": "Consul Oxford",
+  "category": "Footwear",
+  "subcategory": "Loafers & oxfords",
+  "price": 62000,
+  "stock": 9,
+  "tags": [
+   "british",
+   "goodyear welted",
+   "oxford",
+   "polished binder"
+  ],
+  "description": "A Goodyear-welted black calf oxford from the Northampton maker, polished to a deep shine.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P076",
+  "brand": "Salvatore Ferragamo",
+  "name": "Gancini Loafer",
+  "category": "Footwear",
+  "subcategory": "Loafers & oxfords",
+  "price": 69000,
+  "stock": 8,
+  "tags": [
+   "gancini",
+   "italian",
+   "loafer"
+  ],
+  "description": "A smooth calf loafer with the Gancini ornament, made in Italy by the house founded by Salvatore Ferragamo.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P077",
+  "brand": "Common Projects",
+  "name": "Achilles Low",
+  "category": "Footwear",
+  "subcategory": "Sneakers",
+  "price": 42000,
+  "stock": 15,
+  "tags": [
+   "minimalist",
+   "nappa leather",
+   "sneaker",
+   "white"
+  ],
+  "description": "The minimalist white leather sneaker with a gold serial number on the heel, made in Italy.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P078",
+  "brand": "Golden Goose",
+  "name": "Super-Star",
+  "category": "Footwear",
+  "subcategory": "Sneakers",
+  "price": 58000,
+  "stock": 12,
+  "tags": [
+   "distressed",
+   "italian",
+   "sneaker",
+   "star"
+  ],
+  "description": "A leather sneaker with a star patch and a deliberately worn finish, hand-distressed in Venice.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P079",
+  "brand": "Gucci",
+  "name": "Ace Sneaker",
+  "category": "Footwear",
+  "subcategory": "Sneakers",
+  "price": 52000,
+  "stock": 14,
+  "tags": [
+   "bee",
+   "italian",
+   "leather",
+   "sneaker"
+  ],
+  "description": "A low-top white leather sneaker with an embroidered bee and a green and red web stripe.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P080",
+  "brand": "Dior",
+  "name": "B23 High-Top",
+  "category": "Footwear",
+  "subcategory": "Sneakers",
+  "price": 98000,
+  "stock": 6,
+  "tags": [
+   "french",
+   "high-top",
+   "oblique",
+   "sneaker"
+  ],
+  "description": "A high-top sneaker in the house's Oblique canvas with a signature B23 side stripe.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P081",
+  "brand": "Hermès",
+  "name": "H Belt Buckle & Reversible Strap",
+  "category": "Leather & Writing",
+  "subcategory": "Belts & wallets",
+  "price": 88000,
+  "stock": 10,
+  "tags": [
+   "belt",
+   "palladium buckle",
+   "reversible",
+   "togo"
+  ],
+  "description": "A palladium H buckle with a reversible calfskin strap, black on one side and brown on the other.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P082",
+  "brand": "Gucci",
+  "name": "GG Marmont Belt",
+  "category": "Leather & Writing",
+  "subcategory": "Belts & wallets",
+  "price": 41000,
+  "stock": 12,
+  "tags": [
+   "belt",
+   "double g",
+   "italian",
+   "leather"
+  ],
+  "description": "A leather belt with a double-G buckle in aged gold, a motif drawn from the house's archive.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P083",
+  "brand": "Louis Vuitton",
+  "name": "Slender Wallet",
+  "category": "Leather & Writing",
+  "subcategory": "Belts & wallets",
+  "price": 62000,
+  "stock": 14,
+  "tags": [
+   "canvas",
+   "monogram",
+   "slim",
+   "wallet"
+  ],
+  "description": "A slim bifold in monogram canvas with card slots and a note compartment, sized for a front pocket.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P084",
+  "brand": "Hermès",
+  "name": "Bearn Wallet",
+  "category": "Leather & Writing",
+  "subcategory": "Belts & wallets",
+  "price": 150000,
+  "stock": 6,
+  "tags": [
+   "gusset",
+   "leather",
+   "long",
+   "wallet"
+  ],
+  "description": "A long wallet with a gusseted compartment, a clasp in the shape of an H and a leather lining.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P085",
+  "brand": "Montblanc",
+  "name": "Meisterstück 149",
+  "category": "Leather & Writing",
+  "subcategory": "Writing",
+  "price": 98000,
+  "stock": 10,
+  "tags": [
+   "18k nib",
+   "1924",
+   "fountain pen",
+   "icon",
+   "resin"
+  ],
+  "description": "The large black resin fountain pen with a hand-fitted 18-carat gold nib, in production since the 1920s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P086",
+  "brand": "Parker",
+  "name": "51 Fountain Pen",
+  "category": "Leather & Writing",
+  "subcategory": "Writing",
+  "price": 48000,
+  "stock": 12,
+  "tags": [
+   "1941",
+   "classic",
+   "fountain pen",
+   "hooded nib"
+  ],
+  "description": "The Parker 51 is a fountain pen first introduced in 1941. Parker marketed it as \"The World’s Most Wanted Pen\", a slogan alluding to restrictions on production of consumer goods for civilian markets in the United States during World War II.",
+  "source": "Wikipedia: Parker 51 (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P087",
+  "brand": "Pelikan",
+  "name": "Souverän M800",
+  "category": "Leather & Writing",
+  "subcategory": "Writing",
+  "price": 54000,
+  "stock": 9,
+  "tags": [
+   "fountain pen",
+   "german",
+   "piston filler",
+   "striped"
+  ],
+  "description": "A piston-fill fountain pen in striped green resin with a 18-carat two-tone nib, made in Germany.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P088",
+  "brand": "Smythson",
+  "name": "Panama Notebook",
+  "category": "Leather & Writing",
+  "subcategory": "Writing",
+  "price": 9800,
+  "stock": 22,
+  "tags": [
+   "british",
+   "feather-weight paper",
+   "leather",
+   "notebook"
+  ],
+  "description": "A notebook in cross-grain leather with the house's feather-weight paper, from a British maker founded in 1887.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P089",
+  "brand": "Dunhill",
+  "name": "Rollagas Lighter",
+  "category": "Leather & Writing",
+  "subcategory": "Writing",
+  "price": 36000,
+  "stock": 8,
+  "tags": [
+   "british",
+   "lacquer",
+   "lighter",
+   "rollagas"
+  ],
+  "description": "The roller-wheel lighter in lacquer and gold finish, introduced as a design icon in 1957.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P090",
+  "brand": "Rolex",
+  "name": "Datejust 36",
+  "category": "Watches",
+  "subcategory": "Dress watches",
+  "price": 1050000,
+  "stock": 4,
+  "tags": [
+   "date",
+   "dress",
+   "icon",
+   "jubilee bracelet",
+   "watch"
+  ],
+  "description": "The Rolex Oyster Perpetual Datejust is a self-winding chronometer manufactured by Rolex. Launched in 1945, the Datejust was the first self-winding chronometer wristwatch to indicate the date in a window on the dial.",
+  "source": "Wikipedia: Rolex Datejust (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P091",
+  "brand": "Omega",
+  "name": "Constellation",
+  "category": "Watches",
+  "subcategory": "Dress watches",
+  "price": 620000,
+  "stock": 5,
+  "tags": [
+   "claws",
+   "co-axial",
+   "dress",
+   "icon",
+   "watch"
+  ],
+  "description": "A dress watch family with the Manhattan bracelet and the claws on the case, dating from 1952 and certified as a chronometer.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P092",
+  "brand": "Vacheron Constantin",
+  "name": "Overseas",
+  "category": "Watches",
+  "subcategory": "Sports watches",
+  "price": 2900000,
+  "stock": 2,
+  "tags": [
+   "integrated bracelet",
+   "maltese cross",
+   "swiss",
+   "watch"
+  ],
+  "description": "A sports-elegant watch with a Maltese-cross bezel, interchangeable straps and an in-house automatic movement.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P093",
+  "brand": "Rolex",
+  "name": "Explorer",
+  "category": "Watches",
+  "subcategory": "Sports watches",
+  "price": 780000,
+  "stock": 5,
+  "tags": [
+   "36mm",
+   "expedition",
+   "icon",
+   "steel",
+   "watch"
+  ],
+  "description": "The Rolex Explorer is a line of sports watches manufactured by Rolex, introduced in 1953. It is self-winding, water-resistant and was originally designed as a tool watch to aid mountaineers.",
+  "source": "Wikipedia: Rolex Explorer (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P094",
+  "brand": "IWC",
+  "name": "Portugieser Chronograph",
+  "category": "Watches",
+  "subcategory": "Chronographs",
+  "price": 880000,
+  "stock": 4,
+  "tags": [
+   "chronograph",
+   "dress",
+   "large dial",
+   "swiss",
+   "watch"
+  ],
+  "description": "A large-dial chronograph with railway-track minutes and slim leaf hands, inspired by the marine chronometers of Portuguese merchants.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P095",
+  "brand": "Hublot",
+  "name": "Big Bang",
+  "category": "Watches",
+  "subcategory": "Chronographs",
+  "price": 1450000,
+  "stock": 3,
+  "tags": [
+   "bezel",
+   "chronograph",
+   "fusion",
+   "swiss",
+   "watch"
+  ],
+  "description": "A chronograph that fuses materials: a ceramic or carbon case with a rubber strap, and screws on the bezel.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P096",
+  "brand": "Hermès",
+  "name": "Constance",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 1000000,
+  "stock": 2,
+  "tags": [
+   "epsom leather",
+   "h clasp",
+   "handbag",
+   "icon"
+  ],
+  "description": "A structured shoulder bag with the large H clasp, in smooth leather with a flap that closes over the body.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P097",
+  "brand": "Chanel",
+  "name": "Boy Bag",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 780000,
+  "stock": 4,
+  "tags": [
+   "chain strap",
+   "handbag",
+   "metal clasp",
+   "quilted"
+  ],
+  "description": "A quilted leather flap bag with an angular silhouette, a metal clasp and a chain strap.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P098",
+  "brand": "Bottega Veneta",
+  "name": "Jodie",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 320000,
+  "stock": 5,
+  "tags": [
+   "handbag",
+   "intrecciato",
+   "italian",
+   "knotted"
+  ],
+  "description": "A knotted shoulder bag in woven intrecciato leather, with a rounded shape and no visible logo.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P099",
+  "brand": "Prada",
+  "name": "Galleria Saffiano",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 280000,
+  "stock": 6,
+  "tags": [
+   "double zip",
+   "handbag",
+   "italian",
+   "saffiano leather"
+  ],
+  "description": "A structured saffiano leather bag with a double zip, a lasting symbol of the Milanese house.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P100",
+  "brand": "Saint Laurent",
+  "name": "Kate Chain Bag",
+  "category": "Bags",
+  "subcategory": "Handbags",
+  "price": 270000,
+  "stock": 5,
+  "tags": [
+   "chain strap",
+   "french",
+   "handbag",
+   "tassel"
+  ],
+  "description": "A flap shoulder bag with a long chain and a leather tassel, in smooth calfskin.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P101",
+  "brand": "Dior",
+  "name": "Book Tote",
+  "category": "Bags",
+  "subcategory": "Travel bags",
+  "price": 235000,
+  "stock": 7,
+  "tags": [
+   "embroidered canvas",
+   "french",
+   "oblique",
+   "tote"
+  ],
+  "description": "A large tote in embroidered Dior Oblique canvas, with a book-like shape.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P102",
+  "brand": "Globe-Trotter",
+  "name": "Centenary 21in Trolley Case",
+  "category": "Bags",
+  "subcategory": "Travel bags",
+  "price": 195000,
+  "stock": 5,
+  "tags": [
+   "british",
+   "leather corners",
+   "suitcase",
+   "vulcanised fibreboard"
+  ],
+  "description": "Globe-Trotter is a British manufacturer of luxury luggage, based in Mayfair, founded in 1897. The company operates from a factory in Hertfordshire where it employs 70 employees to make their luggage by hand.",
+  "source": "Wikipedia: Globe-Trotter (CC BY-SA 4.0)"
+ },
+ {
+  "id": "P103",
+  "brand": "Tom Ford",
+  "name": "Black Orchid Eau de Parfum",
+  "category": "Fragrance",
+  "subcategory": "Unisex fragrance",
+  "price": 16800,
+  "stock": 14,
+  "tags": [
+   "black truffle",
+   "dark floral",
+   "orchid",
+   "perfume"
+  ],
+  "description": "A dark floral fragrance built on black truffle, ylang-ylang and patchouli.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P104",
+  "brand": "Maison Francis Kurkdjian",
+  "name": "Baccarat Rouge 540",
+  "category": "Fragrance",
+  "subcategory": "Unisex fragrance",
+  "price": 28500,
+  "stock": 10,
+  "tags": [
+   "ambergris",
+   "cedar",
+   "perfume",
+   "saffron"
+  ],
+  "description": "An amber, floral and woody fragrance with saffron and cedar, in a crystal-clear bottle.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P105",
+  "brand": "Byredo",
+  "name": "Gypsy Water",
+  "category": "Fragrance",
+  "subcategory": "Unisex fragrance",
+  "price": 22500,
+  "stock": 12,
+  "tags": [
+   "incense",
+   "juniper",
+   "perfume",
+   "vanilla"
+  ],
+  "description": "A woody fragrance with juniper, incense and vanilla, from the Stockholm niche house.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P106",
+  "brand": "Le Labo",
+  "name": "Santal 33",
+  "category": "Fragrance",
+  "subcategory": "Unisex fragrance",
+  "price": 24500,
+  "stock": 11,
+  "tags": [
+   "cedar",
+   "leather",
+   "perfume",
+   "sandalwood"
+  ],
+  "description": "A smoky sandalwood and cedar fragrance with leather and cardamom, blended to order in New York.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P107",
+  "brand": "Tom Ford",
+  "name": "Snowdon Sunglasses",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 38000,
+  "stock": 9,
+  "tags": [
+   "acetate",
+   "angular",
+   "italian made",
+   "sunglasses"
+  ],
+  "description": "Angular acetate sunglasses with a metal T hinge, made in Italy.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P108",
+  "brand": "Gucci",
+  "name": "Oversized Square Sunglasses",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 36000,
+  "stock": 10,
+  "tags": [
+   "acetate",
+   "italian",
+   "oversized",
+   "sunglasses"
+  ],
+  "description": "Oversized square acetate sunglasses with the interlocking G on the temples.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P109",
+  "brand": "Prada",
+  "name": "Linea Rossa Sunglasses",
+  "category": "Eyewear",
+  "subcategory": "Sunglasses",
+  "price": 29500,
+  "stock": 11,
+  "tags": [
+   "italian",
+   "red stripe",
+   "sport",
+   "sunglasses"
+  ],
+  "description": "Sport-inspired sunglasses with the red line on the temple that defines the Linea Rossa range.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P110",
+  "brand": "Chopard",
+  "name": "Happy Diamonds Pendant",
+  "category": "Jewellery",
+  "subcategory": "Necklaces & earrings",
+  "price": 295000,
+  "stock": 5,
+  "tags": [
+   "floating diamonds",
+   "gold",
+   "necklace",
+   "swiss"
+  ],
+  "description": "A gold pendant with diamonds that move freely between sapphire crystals, a Chopard idea since 1976.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P111",
+  "brand": "Piaget",
+  "name": "Possession Ring",
+  "category": "Jewellery",
+  "subcategory": "Bracelets & rings",
+  "price": 215000,
+  "stock": 6,
+  "tags": [
+   "gold",
+   "ring",
+   "rotating",
+   "swiss"
+  ],
+  "description": "A gold ring with a rotating band, the Swiss jeweller's best-known design since the 1970s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P112",
+  "brand": "David Yurman",
+  "name": "Cable Classic Bracelet",
+  "category": "Jewellery",
+  "subcategory": "Bracelets & rings",
+  "price": 118000,
+  "stock": 9,
+  "tags": [
+   "american",
+   "bracelet",
+   "cable",
+   "sterling silver"
+  ],
+  "description": "A sterling silver bracelet twisted from a single cable, the American designer's signature motif.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P113",
+  "brand": "Tiffany & Co.",
+  "name": "T1 Bracelet",
+  "category": "Jewellery",
+  "subcategory": "Bracelets & rings",
+  "price": 210000,
+  "stock": 8,
+  "tags": [
+   "18k gold",
+   "american",
+   "bracelet",
+   "hinged"
+  ],
+  "description": "A hinged 18-carat gold bracelet with the Tiffany T motif in clean geometric lines.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P114",
+  "brand": "Max Mara",
+  "name": "Madame 101801 Coat",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "price": 235000,
+  "stock": 5,
+  "tags": [
+   "camel hair",
+   "coat",
+   "icon",
+   "italian",
+   "wrap"
+  ],
+  "description": "The camel hair wrap coat first made in 1981, with a relaxed shape and a self belt.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P115",
+  "brand": "Canada Goose",
+  "name": "Expedition Parka",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "price": 118000,
+  "stock": 6,
+  "tags": [
+   "arctic",
+   "canadian",
+   "down",
+   "parka"
+  ],
+  "description": "A down parka built for Arctic conditions, with a fur-trimmed hood and a windproof shell.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P116",
+  "brand": "Tom Ford",
+  "name": "O'Connor Suit",
+  "category": "Apparel",
+  "subcategory": "Tailoring",
+  "price": 485000,
+  "stock": 3,
+  "tags": [
+   "american-italian",
+   "peak lapel",
+   "suit",
+   "tailored",
+   "wool"
+  ],
+  "description": "A wool suit with a peak lapel and a trim, structured cut, made in Italy for the American designer.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P117",
+  "brand": "Ralph Lauren Purple Label",
+  "name": "Cashmere Polo Sweater",
+  "category": "Apparel",
+  "subcategory": "Knitwear & silk",
+  "price": 78000,
+  "stock": 9,
+  "tags": [
+   "american",
+   "cashmere",
+   "polo collar",
+   "sweater"
+  ],
+  "description": "A cashmere sweater with a polo collar and ribbed trims, made in Italy from fine yarn.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P118",
+  "brand": "John Lobb",
+  "name": "Lopez Loafer",
+  "category": "Footwear",
+  "subcategory": "Loafers & oxfords",
+  "price": 118000,
+  "stock": 5,
+  "tags": [
+   "bespoke",
+   "british",
+   "calf leather",
+   "loafer"
+  ],
+  "description": "A hand-lasted penny loafer in polished calf with a leather sole from the London bootmaker.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P119",
+  "brand": "Valentino",
+  "name": "Rockstud Pump",
+  "category": "Footwear",
+  "subcategory": "Heels",
+  "price": 84000,
+  "stock": 7,
+  "tags": [
+   "italian",
+   "patent leather",
+   "pump",
+   "rockstud"
+  ],
+  "description": "A pointed patent pump with a strap of small pyramid studs, the house's best-known detail.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P120",
+  "brand": "Balenciaga",
+  "name": "Triple S",
+  "category": "Footwear",
+  "subcategory": "Sneakers",
+  "price": 88000,
+  "stock": 8,
+  "tags": [
+   "chunky",
+   "french-spanish",
+   "mesh",
+   "sneaker"
+  ],
+  "description": "A chunky triple-sole sneaker in mesh and nubuck that popularised oversized footwear in the 2010s.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P121",
+  "brand": "Maison Margiela",
+  "name": "Tabi Ankle Boot",
+  "category": "Footwear",
+  "subcategory": "Heels",
+  "price": 94000,
+  "stock": 6,
+  "tags": [
+   "boot",
+   "french",
+   "leather",
+   "split toe"
+  ],
+  "description": "A split-toe leather ankle boot inspired by the Japanese tabi sock, with a block heel.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P122",
+  "brand": "Bottega Veneta",
+  "name": "Intrecciato Card Case",
+  "category": "Leather & Writing",
+  "subcategory": "Belts & wallets",
+  "price": 38000,
+  "stock": 14,
+  "tags": [
+   "card case",
+   "italian",
+   "woven leather"
+  ],
+  "description": "A slim card case in woven intrecciato leather, finished with a leather lining.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P123",
+  "brand": "Montblanc",
+  "name": "Meisterstück 6cc Wallet",
+  "category": "Leather & Writing",
+  "subcategory": "Belts & wallets",
+  "price": 32000,
+  "stock": 12,
+  "tags": [
+   "german",
+   "saffiano leather",
+   "wallet"
+  ],
+  "description": "A saffiano leather wallet with six card slots, a coin pocket and the Montblanc emblem.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P124",
+  "brand": "Smythson",
+  "name": "Soho Notebook",
+  "category": "Leather & Writing",
+  "subcategory": "Writing",
+  "price": 8200,
+  "stock": 20,
+  "tags": [
+   "british",
+   "leather",
+   "notebook"
+  ],
+  "description": "A pocket notebook in grained leather with gilded page edges, from the British stationer.",
+  "source": "Written for this demo"
+ },
+ {
+  "id": "P125",
+  "brand": "Visconti",
+  "name": "Homo Sapiens Fountain Pen",
+  "category": "Leather & Writing",
+  "subcategory": "Writing",
+  "price": 62000,
+  "stock": 7,
+  "tags": [
+   "basaltic lava",
+   "fountain pen",
+   "italian"
+  ],
+  "description": "A fountain pen in resin mixed with volcanic basalt from Mount Etna, with a palladium nib.",
+  "source": "Written for this demo"
+ }
+]

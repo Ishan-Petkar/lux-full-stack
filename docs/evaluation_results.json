@@ -1,0 +1,51 @@
+{
+  "environment": {
+    "catalog_size": 125,
+    "queries": 123,
+    "K": 5,
+    "seed": 42,
+    "scikit-learn": "1.9.1",
+    "python": "3.14.7",
+    "features": "name + category + brand + tags(x2) + description; TfidfVectorizer(stop_words=english, sublinear_tf=True)"
+  },
+  "results": {
+    "TF-IDF + cosine": {
+      "P@3": 0.6666666666666666,
+      "P@5": 0.5886178861788618,
+      "MRR": 0.8426829268292683,
+      "Coverage": 0.991869918699187,
+      "Empty lists": 0.0
+    },
+    "Category-only baseline": {
+      "P@3": 0.38482384823848237,
+      "P@5": 0.3983739837398374,
+      "MRR": 0.5636856368563685,
+      "Coverage": 1.0,
+      "Empty lists": 0.0
+    },
+    "Random baseline": {
+      "P@3": 0.04065040650406504,
+      "P@5": 0.04390243902439025,
+      "MRR": 0.08631436314363143,
+      "Coverage": 1.0,
+      "Empty lists": 0.0
+    }
+  },
+  "per_category": {
+    "Apparel": 0.375,
+    "Bags": 0.65,
+    "Eyewear": 0.9555555555555556,
+    "Footwear": 0.625,
+    "Fragrance": 0.575,
+    "Jewellery": 0.5846153846153846,
+    "Leather & Writing": 0.4923076923076923,
+    "Watches": 0.58
+  },
+  "responsiveness": {
+    "feature_build_ms_mean": 1.6463728999951854,
+    "model_only_ms_median": 0.08562499715480953,
+    "model_only_ms_p95": 0.1009580009849742,
+    "end_to_end_ms_median": 0.5527500034077093,
+    "end_to_end_ms_p95": 0.6222919982974418
+  }
+}
